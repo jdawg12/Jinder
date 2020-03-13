@@ -1,7 +1,7 @@
 from selenium import webdriver
 from time import sleep
-from boonk import username, password
-import subprocess, json, sys, random, time, os, re
+from fb_login import username, password
+import subprocess, json, sys, random, time, os, re #I always import these libraries just in case I need them
 from datetime import datetime, timedelta
 
 
