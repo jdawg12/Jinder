@@ -1,0 +1,2 @@
+username = 'YOUR_FACEBOOK_USERNAME'
+password = 'YOUR_FACEBOOK_PASSWORD'
